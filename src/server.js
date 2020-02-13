@@ -16,4 +16,4 @@ app.get('/records/tupperware', TupperwareController.findAll);
 app.use(savePedidosMiddleware("db.json"));
 app.use(proxyMiddleware("http://pedidos.tupperware.com.br"));
 
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
