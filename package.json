@@ -13,6 +13,7 @@
   },
   "keywords": [],
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
   }
 }
