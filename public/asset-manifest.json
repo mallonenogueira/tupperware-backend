@@ -1,13 +1,13 @@
 {
   "main.css": "/tupper-app/static/css/main.0c2b5261.chunk.css",
-  "main.js": "/tupper-app/static/js/main.fa831d6f.chunk.js",
-  "main.js.map": "/tupper-app/static/js/main.fa831d6f.chunk.js.map",
+  "main.js": "/tupper-app/static/js/main.a0013d55.chunk.js",
+  "main.js.map": "/tupper-app/static/js/main.a0013d55.chunk.js.map",
   "static/js/1.f1a2e0fb.chunk.js": "/tupper-app/static/js/1.f1a2e0fb.chunk.js",
   "static/js/1.f1a2e0fb.chunk.js.map": "/tupper-app/static/js/1.f1a2e0fb.chunk.js.map",
   "runtime~main.js": "/tupper-app/static/js/runtime~main.64146ae1.js",
   "runtime~main.js.map": "/tupper-app/static/js/runtime~main.64146ae1.js.map",
   "static/css/main.0c2b5261.chunk.css.map": "/tupper-app/static/css/main.0c2b5261.chunk.css.map",
   "index.html": "/tupper-app/index.html",
-  "precache-manifest.38e986922237c7da5cad7f12f4e30acd.js": "/tupper-app/precache-manifest.38e986922237c7da5cad7f12f4e30acd.js",
+  "precache-manifest.8c76f2e5850b4e351805a54d8ef40fd4.js": "/tupper-app/precache-manifest.8c76f2e5850b4e351805a54d8ef40fd4.js",
   "service-worker.js": "/tupper-app/service-worker.js"
 }

@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/tupper-app/static/js/runtime~main.64146ae1.js"
   },
   {
-    "revision": "fa831d6f32f8fa098f2b",
-    "url": "/tupper-app/static/js/main.fa831d6f.chunk.js"
+    "revision": "a0013d558e7b3b8081ae",
+    "url": "/tupper-app/static/js/main.a0013d55.chunk.js"
   },
   {
     "revision": "f1a2e0fbe6c33ac6fbc1",
     "url": "/tupper-app/static/js/1.f1a2e0fb.chunk.js"
   },
   {
-    "revision": "fa831d6f32f8fa098f2b",
+    "revision": "a0013d558e7b3b8081ae",
     "url": "/tupper-app/static/css/main.0c2b5261.chunk.css"
   },
   {
-    "revision": "330c0bc67d9f62516c5beb3c1266d823",
+    "revision": "495fd92e87a972200627e53483403666",
     "url": "/tupper-app/index.html"
   }
 ];
