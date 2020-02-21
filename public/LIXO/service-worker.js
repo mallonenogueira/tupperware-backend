@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tupper-app/precache-manifest.38e986922237c7da5cad7f12f4e30acd.js"
+  "/tupper-app/precache-manifest.3eb08b3e039edfc156ba1a9ed00699ab.js"
 );
 
 workbox.clientsClaim();

@@ -1,327 +1,226 @@
-[
-	{
+[{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842762.Jpg",
 		"texts": [
-			"842762",
 			"QUERIDINHOS TUPPERWARE",
-			".",
-			"Pre&#xE7;o sugerido:",
-			"R$ 519,00",
-			"Por apenas: R$",
-			"338,55",
-			"Comprar:"
+			null,
+			"519,00",
+			"338,55"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842928.Jpg",
 		"texts": [
-			"842928",
 			"BASE+ FUNIL+ PIST&#xC3;O+PREPARADOR DE SORBET",
-			".",
-			"Pre&#xE7;o sugerido:",
-			"R$ 429,60",
-			"Por apenas: R$",
-			"329,60",
-			"Comprar:"
+			null,
+			"429,60",
+			"329,60"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842930.Jpg",
 		"texts": [
-			"842930",
 			"INSTANT MASSA PLUS",
 			"3L",
-			"Pre&#xE7;o sugerido:",
-			"R$ 93,90",
-			"Por apenas: R$",
-			"45,90",
-			"Comprar:"
+			"93,90",
+			"45,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842931.Jpg",
 		"texts": [
-			"842931",
 			"DUO KUPS (1 UNIDADE)",
 			"100ML",
-			"Pre&#xE7;o sugerido:",
-			"R$ 19,90",
-			"Por apenas: R$",
-			"15,90",
-			"Comprar:"
+			"19,90",
+			"15,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842932.Jpg",
 		"texts": [
-			"842932",
 			"ESCORREDOR DE LATAS",
-			".",
-			"Pre&#xE7;o sugerido:",
-			"R$ 13,90",
-			"Por apenas: R$",
-			"9,90",
-			"Comprar:"
+			null,
+			"13,90",
+			"9,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842934.Jpg",
 		"texts": [
-			"842934",
 			"REFRI LINE QUADRADO",
 			"650ML",
-			"Pre&#xE7;o sugerido:",
-			"R$ 39,90",
-			"Por apenas: R$",
-			"27,90",
-			"Comprar:"
+			"39,90",
+			"27,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842935.Jpg",
 		"texts": [
-			"842935",
 			"TIGELA BATEDEIRA",
 			"1L",
-			"Pre&#xE7;o sugerido:",
-			"R$ 51,90",
-			"Por apenas: R$",
-			"39,90",
-			"Comprar:"
+			"51,90",
+			"39,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842936.Jpg",
 		"texts": [
-			"842936",
 			"TIGELA IL&#xDA;MINA HORT&#xCA;NSIA",
 			"350ML",
-			"Pre&#xE7;o sugerido:",
-			"R$ 37,90",
-			"Por apenas: R$",
-			"25,90",
-			"Comprar:"
+			"37,90",
+			"25,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842938.Jpg",
 		"texts": [
-			"842938",
 			"ESP&#xC1;TULA ESSENCIAL BORDEAUX",
-			".",
-			"Pre&#xE7;o sugerido:",
-			"R$ 33,90",
-			"Por apenas: R$",
-			"23,90",
-			"Comprar:"
+			null,
+			"33,90",
+			"23,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842939.Jpg",
 		"texts": [
-			"842939",
 			"POTE MASTER FARINHA DE ROSCA",
 			"1L",
-			"Pre&#xE7;o sugerido:",
-			"R$ 71,90",
-			"Por apenas: R$",
-			"49,90",
-			"Comprar:"
+			"71,90",
+			"49,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842942.Jpg",
 		"texts": [
-			"842942",
 			"POTE MASTER CAF&#xC9;",
 			"500G",
-			"Pre&#xE7;o sugerido:",
-			"R$ 71,90",
-			"Por apenas: R$",
-			"49,90",
-			"Comprar:"
+			"71,90",
+			"49,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842943.Jpg",
 		"texts": [
-			"842943",
 			"VISUAL BOX MINI",
 			"550ML",
-			"Pre&#xE7;o sugerido:",
-			"R$ 61,90",
-			"Por apenas: R$",
-			"41,90",
-			"Comprar:"
+			"61,90",
+			"41,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842944.Jpg",
 		"texts": [
-			"842944",
 			"MODULAR REDONDO 5",
 			"1,1L",
-			"Pre&#xE7;o sugerido:",
-			"R$ 53,90",
-			"Por apenas: R$",
-			"39,90",
-			"Comprar:"
+			"53,90",
+			"39,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842945.Jpg",
 		"texts": [
-			"842945",
 			"TIGELA TOQUE M&#xC1;GICO",
 			"550ML",
-			"Pre&#xE7;o sugerido:",
-			"R$ 43,90",
-			"Por apenas: R$",
-			"32,90",
-			"Comprar:"
+			"43,90",
+			"32,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0842946.Jpg",
 		"texts": [
-			"842946",
 			"TIGELA MARAVILHOSA",
 			"1L",
-			"Pre&#xE7;o sugerido:",
-			"R$ 55,90",
-			"Por apenas: R$",
-			"39,90",
-			"Comprar:"
+			"55,90",
+			"39,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843060.Jpg",
 		"texts": [
-			"843060",
 			"KIT VER&#xC3;O ROSA NEON",
-			".",
-			"Pre&#xE7;o sugerido:",
-			"R$ 148,50",
-			"Por apenas: R$",
-			"83,15",
-			"Comprar:"
+			null,
+			"148,50",
+			"83,15"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843061.Jpg",
 		"texts": [
-			"843061",
 			"KIT VER&#xC3;O LARANJA NEON",
-			".",
-			"Pre&#xE7;o sugerido:",
-			"R$ 161,50",
-			"Por apenas: R$",
-			"88,15",
-			"Comprar:"
+			null,
+			"161,50",
+			"88,15"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843062.Jpg",
 		"texts": [
-			"843062",
 			"KIT VER&#xC3;O AMARELO NEON",
-			".",
-			"Pre&#xE7;o sugerido:",
-			"R$ 161,50",
-			"Por apenas: R$",
-			"88,15",
-			"Comprar:"
+			null,
+			"161,50",
+			"88,15"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843063.Jpg",
 		"texts": [
-			"843063",
 			"SMART QUEIJEIRA GRANDE - 1 ESTRELA",
-			".",
-			"Pre&#xE7;o sugerido:",
-			"R$ 142,90",
-			"Por apenas: R$",
-			"84,90",
-			"Comprar:"
+			null,
+			"142,90",
+			"84,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843088.Jpg",
 		"texts": [
-			"843088",
 			"ECO TUPPER PLUS TURMALINA",
 			"2L",
-			"Pre&#xE7;o sugerido:",
-			"R$ 89,90",
-			"Por apenas: R$",
-			"67,90",
-			"Comprar:"
+			"89,90",
+			"67,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843089.Jpg",
 		"texts": [
-			"843089",
 			"TUPPER CAIXA FARINHA DE ROSCA BISTR&#xD4;",
 			"500G",
-			"Pre&#xE7;o sugerido:",
-			"R$ 49,90",
-			"Por apenas: R$",
-			"31,90",
-			"Comprar:"
+			"49,90",
+			"31,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843090.Jpg",
 		"texts": [
-			"843090",
 			"TUPPER CAIXA FARINHA DE ROSCA PB",
 			"500G",
-			"Pre&#xE7;o sugerido:",
-			"R$ 49,90",
-			"Por apenas: R$",
-			"31,90",
-			"Comprar:"
+			"49,90",
+			"31,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843091.Jpg",
 		"texts": [
-			"843091",
 			"BASIC LINE",
 			"5L",
-			"Pre&#xE7;o sugerido:",
-			"R$ 79,90",
-			"Por apenas: R$",
-			"49,90",
-			"Comprar:"
+			"79,90",
+			"49,90"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0843092.Jpg",
 		"texts": [
-			"843092",
 			"KIT ECO TUPPERS GARRAFA PLUS  3 UNIDS.",
 			"1 LITRO CADA",
-			"Pre&#xE7;o sugerido:",
-			"R$ 209,70",
-			"Por apenas: R$",
-			"119,70",
-			"Comprar:"
+			"209,70",
+			"119,70"
 		]
 	},
 	{
 		"img": "/tupper/Cadastros/ECommerce/Pub/00113_0910363.Jpg",
 		"texts": [
-			"910363",
 			"DELINEADOR EM DISCO + 2 M&#xC1;SCARAS VOLUME",
 			"1,0ML + 7,5G CADA",
-			"Pre&#xE7;o sugerido:",
-			"R$ 216,70",
-			"Por apenas: R$",
-			"89,90",
-			"Comprar:"
+			"216,70",
+			"89,90"
 		]
 	}
 ]
